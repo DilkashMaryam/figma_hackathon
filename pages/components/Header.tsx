@@ -10,7 +10,7 @@ const Header = () => {
   const topNavItems = [
     {
       name: "Find a Store",
-      link: "#",
+      link: "./Allproduct/page",
     },
     {
       name: "Help",
@@ -18,11 +18,11 @@ const Header = () => {
     },
     {
       name: "Join Us",
-      link: "#",
+      link: "/Member/page",
     },
     {
       name: "Sign In",
-      link: "#",
+      link: "/Sign/page",
     },
   ]
 
@@ -30,7 +30,7 @@ const Header = () => {
   const navBar =[
     {
       name: "New & Featured",
-      link: "./Allproduct/page",
+      link: "#",
     },
     {
       name: "Men",
